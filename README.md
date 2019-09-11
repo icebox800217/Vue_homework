@@ -9,7 +9,7 @@ AI0101 18號 林忠義
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 2.在<div class="col-sm-4">
-  新增 id="lab" 以連結資料庫
+  新增 id="lab" 
   
 3.在<script>中，依據新增的id寫下Vue語法
   範例:
