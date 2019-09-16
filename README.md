@@ -21,6 +21,7 @@ AI0101 18號 林忠義
                    //     title: "Item 1"
                    // }
                         }]
+  
 4.利用下方程式碼到創建好的資料庫中取得資料
   $.get("/home/news", function(e) {labApp.newsList = JSON.parse(e);})
   
